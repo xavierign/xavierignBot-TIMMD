@@ -28,7 +28,7 @@ cd xavierignBot-TIMMD</code></pre>
 
 <pre><code>pip3 install requests requests_oauthlib python-dotenv</code></pre>
 
-4. Create a Twitter Developer Account and obtain your API keys and access tokens (API key, API secret key, access token, and access token secret). For detailed instructions, refer to the [Twitter Developer documentation](https://developer.twitter.com/en/docs/authentication/oauth-1-0a).
+4. Create a Twitter Developer Account and obtain your API keys and access tokens (API key, API secret key, access token, and access token secret). For detailed instructions, refer to the [Twitter Developer Account](https://developer.twitter.com/en/support/twitter-api/developer-account) and [Twitter Developer documentation](https://developer.twitter.com/en/docs/authentication/oauth-1-0a).
 
 5. Create a `.env` file in the project root directory to store your API keys and access tokens:
 
